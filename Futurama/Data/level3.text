@@ -1,0 +1,29 @@
+//number of ennemies per screen
+10
+//ennemies width
+20
+//ennemies height
+20
+//can ennemies shoot?
+false
+//messages
+The dreaded swap planet, home of the hypno-toads!
+Here comes the big daddy of toads!
+Well done ! Press 'c' to continue ...
+All hail hypno-toad! Press any key...
+//boss x coordinate
+500
+//boss y coordinate
+245
+//boss width
+100
+//boss height
+70
+//boss life
+35
+//can boss shoot?
+false
+//score objective
+2500
+//time limit
+4000

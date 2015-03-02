@@ -1,0 +1,29 @@
+//number of ennemies per screen
+7
+//ennemies' width
+40
+//ennemies' height
+40
+//can ennemies shoot?
+true
+//messages
+Welcome to Omicron Persei 8 puny earthlings!
+Get ready to meet the Lurr!
+Congratulations have defeated Lurr! Press 'c' for the credits !
+Puny earthling indeed! Press any key...
+//boss x coordinate
+550
+//boss y coordinate
+450
+//boss width
+150
+//boss height
+150
+//boss life
+50
+//can boss shoot?
+true
+//score objective
+5200
+//time limit
+5000

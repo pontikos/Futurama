@@ -1,0 +1,29 @@
+//number of ennemies per screen
+10
+//ennemies width
+20
+//ennemies height
+20
+//can ennemies shoot?
+true
+//messages
+MOM has unleashed the 1X Robots on Mars!
+Here comes the adorable MOM...
+You have just destroyed an old woman...Press 'c' to continue !
+You failed your mission because your ship has exploded, press any key...
+//boss x coordinate
+550
+//boss y coordinate
+450
+//boss width
+100
+//boss height
+100
+//boss life
+35
+//can boss shoot?
+true
+//score objective
+3700
+//time limit
+5000

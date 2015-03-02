@@ -1,0 +1,33 @@
+########backgrounds for levels#############
+Images/level-1.jpg
+Images/level-2.jpg
+Images/level-3.gif
+Images/level-4.gif
+Images/level-5.gif
+########ennemies for each level############
+Images/bee.gif
+Images/spacePirate.gif
+Images/hypnoToad.gif
+Images/1XRobot.gif
+Images/Lurr.gif
+########bosses for each level##############
+Images/bee.gif
+Images/spacePirate.gif
+Images/hypnoToad.gif
+Images/1XRobot.gif
+Images/Lurr.gif
+########pictures of space ship#############
+Images/planetExpressShip.gif
+Images/planetExpressShip2.gif
+Images/planetExpressShip3.gif
+########picture of explosion###############
+Images/explosion.gif
+#######power ups###########################
+Images/lifeUp.gif
+Images/weaponUp.gif
+Images/invincibility.gif
+#######menus###############################
+Images/mainMenu.jpg
+Images/credits.jpg
+Images/scores.jpg
+Images/options.jpg

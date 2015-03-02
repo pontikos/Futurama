@@ -1,0 +1,29 @@
+//number of ennemies per screen
+5
+//ennemies width
+30
+//ennemies height
+25
+//can ennemies shoot?
+true
+//messages
+Space pirates are attacking Earth!
+Get ready to meet the Boss!
+Well done the Earth is saved ! Press 'c' to continue !
+You're fired from planet Xpress for dying on the job, press any key...
+//boss x coordinate
+640
+//boss y coordinate
+245
+//boss width
+100
+//boss height
+70
+//boss life
+30
+//can boss shoot?
+true
+//score objective
+1500
+//time limit
+7000

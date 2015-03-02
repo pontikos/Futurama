@@ -1,0 +1,30 @@
+//number of ennemies per screen
+5
+//ennemies width
+20
+//ennemies height
+20
+//can ennemies shoot?
+false
+//messages
+Kill 50 vicious space bees
+Get ready to meet the Queen!
+You've defeated the vicious space bees ! Press 'c' to continue ...
+You're honey! Press any key...
+//boss x coordinate
+550
+//boss y coordinate
+450
+//boss width
+70
+//boss height
+70
+//boss life
+20
+//can boss shoot?
+false
+//score objective
+500
+//time limit
+5000
+//bottom inset
