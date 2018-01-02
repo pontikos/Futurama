@@ -7,7 +7,7 @@ Developed: 2003 – 2004
 
 ![Screenshot](Futurama/Images/mainMenu.jpg)
 
-![Screenshot2](Futurama/Images/Screen Shot 2018-01-02 at 21.50.30.png)
+![Screenshot2](Futurama/Images/Screen%20Shot%202018-01-02%20at%2021.50.30.png)
 
 
 ## Description
